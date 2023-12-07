@@ -67,5 +67,3 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1371/journal.pcbi.1011359
-  domains:
-    - physiome-S000023.curve.space

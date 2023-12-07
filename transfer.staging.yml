@@ -1,0 +1,14 @@
+version: 1
+physiome:
+  work:
+    id: S000023
+    date_created: '2023-12-06T17:08:15.450Z'
+  workVersion:
+    id: 018c4505-4f88-7dcf-b4ed-c64ac368db7a
+    date_created: '2023-12-07T16:03:45.160Z'
+  submission:
+    id: 018c401a-03e9-710e-9b07-67320781cc1d
+    date_created: '2023-12-06T17:08:15.971Z'
+  submissionVersion:
+    id: 018c4505-51d9-79c9-b05a-4b37d83508e5
+    date_created: '2023-12-07T16:03:45.749Z'
