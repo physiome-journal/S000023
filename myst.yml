@@ -10,9 +10,11 @@ project:
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
     - name: Alys R. Clark
+      orcid: 0000-0001-5908-2862
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
     - name: Leo K. Cheng
+      orcid: 0000-0003-2426-8987
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
   editors:
